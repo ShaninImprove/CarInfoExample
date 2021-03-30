@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ActivityWorkExample</string>
+
+    <string name="car_data_toolbar_title">Car data</string>
+
+    <string name="car_brand_text_input_hint">Car brand</string>
+    <string name="car_model_text_input_hint">Car model</string>
+    <string name="drive_unit_text">Drive unit:</string>
+
+    <string name="front_drive_radio">Front-wheel drive</string>
+    <string name="rear_drive_radio">Rear drive</string>
+    <string name="four_drive_radio">Four-wheel drive</string>
+
+    <string name="additional_terms_text">Additional terms:</string>
+    <string name="parking_lot_check">Need a parking lot</string>
+    <string name="car_wash_check">Need a car wash</string>
+
+    <string name="confirm_button_text">Confirm</string>
+    <string name="accept_button_text">Accept</string>
+
+    <string name="car_title_text">Car:</string>
+    <string name="drive_unit_title_text">Drive unit:</string>
+    <string name="additional_terms_title_text">Additional terms:</string>
+
+    <string name="close_menu">Close</string>
+    <string name="no_data_placeholder">–</string>
+
+    <string name="all_ok_snackbar">All ok</string>
+    <string name="screen_was_closed">Screen was closed</string>
+</resources>
